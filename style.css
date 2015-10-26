@@ -1,0 +1,252 @@
+#homeBtns{
+  border: 3px solid black;
+  border-width: 1px;
+  color: black;
+}
+
+
+
+/* -------------- Music Page --------------*/
+
+#musicBackground{
+  background-image: url(/img/musicBackground.jpg);
+}
+
+#musicMainBody{
+  background-color: #E8D1A4;
+  background-position: center;
+  overflow: hidden;
+}
+
+#musicMainBackground{
+  background-color: #E8D1A4;
+  background-position: center;
+  }
+
+#musicNavbar{
+  background-color: black;
+  color: white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: white;
+}
+
+#musicNav{
+  background-color: black;
+  opacity: .6;
+  font-family: 'Fjalla One', sans-serif;
+  font-color: white;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#banner{
+  margin-top: 50px;
+  background-color: black;
+  height: 200px;
+  text-align: center;
+}
+
+#bannerText{
+  padding-top: 30px;
+  font-size: 80px;
+  font-family: 'Fjalla One', sans-serif;
+  color: #E8D1A4;
+}
+
+a.musicA2:hover{
+    color: #E8D1A4;
+    background-color: transparent!important;
+    text-decoration: none;
+}
+
+i.fa:hover{
+  color: black;
+  background-color: transparent!important;
+  text-decoration: none;
+}
+
+
+#bannerLinks{
+  font-size: 16px;
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-align: right;
+    word-spacing: 30px;
+}
+
+#musicContents{
+  text-align: center;
+}
+
+#showsTitle{
+  margin-top: -30px;
+}
+
+.articleTitle{
+  text-decoration: underline;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#showsText{
+  font-size: 20px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: center;
+  height: 401px;
+  overflow: scroll;
+  border: 3px solid #d4a956;
+}
+
+img#logo{
+  width: 175px;
+  float: right;
+  margin-top: 2.5px;
+}
+
+#woods{
+  /*height: 200%;*/
+  width: auto;
+}
+
+#sideBar{
+  position: absolute;
+  float: left;
+  /*height: 300px;
+  border: 4px solid red;*/
+}
+
+#sideBar2{
+  padding-top: 20px;
+  float: right;
+  padding-right: 120px;
+}
+
+i.fa {
+float: right;
+padding-left: 30px;
+}
+
+i.footer{
+  float: none;
+  padding: 0 0 0 0;
+  padding-bottom: 30px;
+}
+
+.fa{
+  color: white;
+}
+
+#carousel{
+  max-width: 800px;
+  max-height: 600px;
+}
+
+#slides_control > div{
+  height: 400px;
+}
+img{
+  margin:auto;
+  width: 800px;
+  max-height: 600px;
+}
+#slides_control {
+  position:absolute;
+  width: 400px;
+  left:50%;
+  top:20px;
+  margin-left:-200px;
+}
+
+hr.style-seven {
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr.style-seven:before { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+a.musicA {
+  font-family: 'Slabo 27px', serif;
+  color: white;
+}
+
+a.musicA2 {
+  font-family: 'Slabo 27px', serif;
+  color: white;
+}
+
+
+
+#musicAlbum{
+  display: block;
+  max-height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#album{
+  border: 10px;
+  border-color: red;
+  border-width: 5px;
+}
+#albumLink{
+  color: red;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+#availableNow{
+  color: white;
+  text-align: center;
+}
+
+#availableNow2{
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+#pageBottom{
+  height: 100%;
+}
+
+#pageBottom2{
+  height: 80%;
+}
+
+iframe{
+  padding-bottom: 20px;
+}
+
+#feet {
+    text-align: center;
+}
+
+footer span.copyright {
+    text-transform: none;
+    font-family: 'Fjalla One', sans-serif;
+    line-height: 40px;
+}
+
+footer ul.quicklinks {
+    margin-bottom: 0;
+    text-transform: none;
+    font-family: 'Fjalla One', sans-serif;
+    line-height: 40px;
+}
+
